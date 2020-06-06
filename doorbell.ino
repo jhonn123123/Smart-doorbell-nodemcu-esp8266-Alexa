@@ -43,7 +43,7 @@
 
 // change this to your button PIN
 // on NodeMCU D3 / GPIO-0 is flash button PIN so you can use the builtin flash button
-#define BUTTON_PIN 2  // we change button pin to 2, default is 0   
+#define BUTTON_PIN 2  //  default button pin is 0 to test    
 
 
 // checkButtonpress

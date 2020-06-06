@@ -21,6 +21,37 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 ![alt text](https://raw.githubusercontent.com/jhonn123123/Smart-doorbell-nodemcu-esp8266-Alexa/master/img/aditionalboardurl.png)
 
+5- Click on Tools, Manager Libraries
+
+6- Seach and Install esp8266 by ESP8266 Community
+
+![alt text](https://raw.githubusercontent.com/jhonn123123/Smart-doorbell-nodemcu-esp8266-Alexa/master/img/esp8266.png)
+
+7- go to sinric pro https://sinric.pro/es-index.html and create account
+
+8- add new device
+
+9- select doorbell on type device
+
+![alt text](https://raw.githubusercontent.com/jhonn123123/Smart-doorbell-nodemcu-esp8266-Alexa/master/img/typedevice.png)
+
+10- open doorbell.ino on Arduino IDE
+
+11- edit doorbell.ino put credentials
+
+![alt text](https://raw.githubusercontent.com/jhonn123123/Smart-doorbell-nodemcu-esp8266-Alexa/master/img/ino.png)
+
+12- copy and paste app key and app secret
+
+![alt text](https://raw.githubusercontent.com/jhonn123123/Smart-doorbell-nodemcu-esp8266-Alexa/master/img/sinricproapp.png)
+
+13- copy and paste id 
+
+![alt text](https://raw.githubusercontent.com/jhonn123123/Smart-doorbell-nodemcu-esp8266-Alexa/master/img/ids.png)
+
+14- load doorbell.ino to NodeMCU esp8266 
+
+![alt text](https://raw.githubusercontent.com/jhonn123123/Smart-doorbell-nodemcu-esp8266-Alexa/master/img/load.png)
 
 
 
