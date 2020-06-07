@@ -7,6 +7,8 @@ Alexa
 
 ![alt text](https://raw.githubusercontent.com/jhonn123123/Smart-doorbell-nodemcu-esp8266-Alexa/master/img/timbre.png)
 
+![alt text](https://raw.githubusercontent.com/jhonn123123/Smart-doorbell-nodemcu-esp8266-Alexa/master/img/gif.gif)
+
 we need to add the URL to support the board esp8266
 
 https://arduino.esp8266.com/stable/package_esp8266com_index.json
@@ -52,6 +54,12 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 14- load doorbell.ino to NodeMCU esp8266 
 
 ![alt text](https://raw.githubusercontent.com/jhonn123123/Smart-doorbell-nodemcu-esp8266-Alexa/master/img/load.png)
+
+15- build the circuit
+
+![alt text](https://raw.githubusercontent.com/jhonn123123/Smart-doorbell-nodemcu-esp8266-Alexa/master/img/nodemcu.jpg)
+
+![alt text](https://raw.githubusercontent.com/jhonn123123/Smart-doorbell-nodemcu-esp8266-Alexa/master/img/gif.gif)
 
 
 
